@@ -243,6 +243,55 @@ orgs_provs %>%
 ---
 class: middle center
 
+### Inicio
+
+```{r , echo = FALSE, out.height='90%'}
+knitr::include_graphics("img/dataturimg_home.png")
+```
+
+---
+class: middle center
+
+### Solicitudes de indicadores
+
+```{r , echo = FALSE, out.height='90%'}
+knitr::include_graphics("img/dataturimg_solicitudes.png")
+```
+
+---
+class: middle center
+
+### Detalle de respuesta
+
+```{r , echo = FALSE, out.height='90%'}
+knitr::include_graphics("img/datatur_rpta.png")
+```
+
+---
+
+class: middle center
+
+### Datos reportados
+
+```{r , echo = FALSE, out.height='90%'}
+knitr::include_graphics("img/datatur_reporte.png")
+```
+
+---
+
+
+class: middle center
+
+### Datos reportados
+
+```{r , echo = FALSE, out.height='90%'}
+knitr::include_graphics("img/datatur_reporte2.png")
+```
+
+---
+
+class: middle center
+
 ## Datos relevados en módulo DEST 
 
 ```{r,  message=FALSE, warning=FALSE, echo = FALSE}
@@ -288,7 +337,7 @@ datosxmes %>%
 <br>
 ### Sistema de gestión de registros de alojamientos
 ### Control de cambios y actualización del PUNA
-### En etapa de testing
+### En etapa de testing e importación de datos
 ]
 
 .pull-right[
@@ -300,6 +349,40 @@ datosxmes %>%
 
 
 ---
+
+class: middle center
+
+### Puna
+
+```{r , echo = FALSE, out.height='90%'}
+knitr::include_graphics("img/datatur_alojamientos.png")
+```
+
+---
+
+
+class: middle center
+
+### Alta Alojamientos
+
+```{r , echo = FALSE, out.height='90%'}
+knitr::include_graphics("img/datatur_altaaloja.png")
+```
+
+---
+
+
+class: middle center
+
+### Registros
+
+```{r , echo = FALSE, out.height='90%'}
+knitr::include_graphics("img/datatur_tablaaloja.png")
+```
+
+---
+
+
 class: inverse center middle
 
 # Indicadores básicos de turismo provinciales (IBTP)
